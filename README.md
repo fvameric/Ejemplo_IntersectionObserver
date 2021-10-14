@@ -5,6 +5,10 @@ Esta API nos ofrece una manera asíncrona de observar elementos DOM cada vez que
 
 Esta API nació en contramedida a los métodos tradicionales para calcular posiciones y evitar las consultas intensivas al estado de cada DOM.
 
+<div align="center">
+    <img src="images/intersectratio.png">
+</div>
+
 Nos puede servir para:
 - Cargar imágenes u otro contenido a medida que hacemos scroll (como en webs con desplazamiento infinito donde más y más contenido se carga y se muestra).
 - Asegurar la visualización de anuncios.
